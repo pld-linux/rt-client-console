@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define	rsvn	58
 Summary:	ncurses based Request Tracker client
 Name:		rt-client-console
